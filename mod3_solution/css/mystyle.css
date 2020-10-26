@@ -36,6 +36,7 @@ float: center;
     font-family: Helvetica;
     color: white;
     height: 700px;
+  overflow: hidden;
   }
   
   /* Simple Responsive Framework. */
